@@ -1,0 +1,13 @@
+# Dependency Directories
+node_modules/
+vendor/
+
+# Build Output
+/dist
+/build
+
+# Log Files
+*.log
+
+# Personal IDE Settings
+.vscode/ 
